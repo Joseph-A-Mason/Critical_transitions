@@ -1,4 +1,4 @@
-setwd("")
+setwd("C:/Users/Joe/Documents/GitHub/Critical_transitions")
 
 ##Set number of age intervals (bins)
 nclass <- 20
